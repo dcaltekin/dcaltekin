@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**dcaltekin/dcaltekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Doğukan Çaltekin.
+I am located in Istanbul(Europaea).
 
-Here are some ideas to get you started:
+#### 🌱 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript
+- CSS (SASS)
+- React
+- NodeJS
+
+#### 🔭 Job
+
+A fulltime junior frontend position preferably in Istanbul.
+
+#### ⚡ Experiances
+
+I was an intern at a Web Agency for 6 months.
+
+#### 👯 Education
+
+I'm studying history at Istanbul University.
+I'm also learned web technologies like JS, CSS and PHP at Highschool.
+
+#### 📫 Contact
+
+[dcaltekin@gmail.com](mailto:dcaltekin@gmail.com)
