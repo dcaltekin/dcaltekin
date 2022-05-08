@@ -6,7 +6,9 @@ I am located in Bursa.
 #### 🌱 Learning
 
 - HTML
-- CSS (SASS), Bootstrap, Tailwind
+- CSS (SASS)
+- Bootstrap
+- Tailwind
 - Javascript
 - React
 
