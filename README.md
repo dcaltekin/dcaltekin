@@ -5,16 +5,16 @@ I am located in Bursa.
 
 #### 🌱 Learning
 
+- HTML
+- CSS (SASS), Bootstrap, Tailwind
 - Javascript
-- CSS (SASS)
 - React
-- NodeJS
 
 #### 🔭 Job
 
 A fulltime junior frontend position preferably in Istanbul.
 
-#### ⚡ Experiances
+#### ⚡ Experiences
 
 I was an intern at a Web Agency for 6 months.
 
