@@ -1,7 +1,7 @@
 ### Hey 👋
 
 My name is Doğukan Çaltekin.
-I am located in Istanbul(Europaea).
+I am located in Bursa.
 
 #### 🌱 Learning
 
