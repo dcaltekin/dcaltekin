@@ -18,7 +18,7 @@ A fulltime junior frontend position preferably in Istanbul.
 
 #### ⚡ Experiences
 
-I was an intern at a Web Agency for 6 months.
+I was an intern at a Web Agency for 1 year.
 
 #### 👯 Education
 
