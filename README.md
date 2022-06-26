@@ -11,6 +11,7 @@ I am located in Bursa.
 - Tailwind
 - Javascript
 - React
+- Redux
 
 #### 🔭 Job
 
