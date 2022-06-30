@@ -23,8 +23,8 @@ I was an intern at a Web Agency for 1 year.
 
 #### 👯 Education
 
-I'm studying history at Istanbul University.
-I'm also learned web technologies like JS, CSS and PHP at Highschool.
+I graduated from the department of Database Technologies at High School.
+I'm also learned web technologies like JS, CSS and PHP at High School.
 
 #### 📫 Contact
 
