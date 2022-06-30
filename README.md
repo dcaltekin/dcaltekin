@@ -3,7 +3,7 @@
 My name is Doğukan Çaltekin.
 I am located in Bursa.
 
-#### 🌱 Learning
+#### 🌱 Skills
 
 - HTML
 - CSS (SASS)
