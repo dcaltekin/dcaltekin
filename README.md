@@ -15,7 +15,7 @@ I am located in Bursa.
 
 #### 🔭 Job
 
-A fulltime junior frontend position preferably in Istanbul.
+A full time junior frontend position.
 
 #### ⚡ Experiences
 
