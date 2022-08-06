@@ -10,8 +10,13 @@ I am located in Bursa, Turkey.
 - Bootstrap
 - Tailwind
 - Javascript
-- React
+- ReactJS
 - Redux
+- NextJS
+- MySQL
+- Experinced on NodeJS
+- Experienced on C#
+- Experinced on PHP
 
 #### 🔭 Job
 
