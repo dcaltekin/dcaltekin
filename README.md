@@ -24,7 +24,7 @@ A full time junior frontend position.
 
 #### ⚡ Experiences
 
-I was an intern at a Web Agency for 1 year.
+I started coding in 2015. I have been developing projects in the Front-end Web Development field for 1.5 years.
 
 #### 👯 Education
 
