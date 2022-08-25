@@ -24,7 +24,7 @@ A full time junior frontend position.
 
 #### ⚡ Experiences
 
-I started coding in 2015. I have been developing projects in the Front-end Web Development field for 1.5 years.
+I started coding in 2015. I have been developing projects in the field of Front-end Web Development for 1.5 years.
 
 #### 👯 Education
 
