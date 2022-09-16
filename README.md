@@ -3,6 +3,8 @@
 My name is Doğukan Çaltekin.
 I am located in Bursa, Turkey.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dcaltekin&theme=dark)](https://git.io/streak-stats)
+
 #### 🌱 Skills
 
 - HTML
