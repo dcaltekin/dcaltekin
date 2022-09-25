@@ -36,3 +36,5 @@ Hi, I'm Doğukan. I was born in Bursa, Turkey in November 1999. I started coding
 #### 📫 Contact
 
 [dcaltekin@gmail.com](mailto:dcaltekin@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=dcaltekin&color=blue)
