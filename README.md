@@ -5,7 +5,7 @@
   "firstName": "Doğukan",
   "lastName": "Çaltekin",
   "country": "Turkey",
-  "age": 23,
+  "age": 23
 }
 
 ```
