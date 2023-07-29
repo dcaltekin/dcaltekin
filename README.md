@@ -4,7 +4,7 @@
 {
   "firstName": "Doğukan",
   "lastName": "Çaltekin",
-  "country": "Turkey"
+  "country": "Turkey",
   "age": 23
 }
 
