@@ -5,7 +5,7 @@
   "firstName": "Doğukan",
   "lastName": "Çaltekin",
   "country": "Turkey",
-  "age": 23
+  "age": 24
 }
 
 ```
@@ -13,11 +13,11 @@
 
 ## Active Stack 🔥
 
-- **Front End:** Next.js, React.js, Typescript, Redux, Tailwind CSS
+- **Front End:** Next.js Pages & App Router, React.js, Typescript, Redux Toolkit, Tailwind CSS, Gatsby.js
 - **Back End:** Node.js, Express
 - **Database:** MySQL
-- **Other Tools:** Git&Github, Trello, Jira, Figma
-- **Following:** Gatsby.js, GraphQL, Prisma, MongoDB
+- **Other Tools:** Git&Github, Trello, Jira, Asana, Figma
+- **Following:** Remix, Shopify, GraphQL, Prisma, MongoDB
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dcaltekin&theme=dark)](https://git.io/streak-stats)
 
@@ -27,7 +27,7 @@ Full time Front End Developer. Part time Full Stack Developer.
 
 ## Experiences 🌞
 
-I started coding in 2015. I have been developing projects in the field of Front-end Web Development for 2+ years.
+I started coding in 2015. I have been developing projects in the field of Front-end Web Development for 3+ years.
 
 ## About Me 👇
 
