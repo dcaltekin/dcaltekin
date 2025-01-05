@@ -5,7 +5,7 @@
   "firstName": "Doğukan",
   "lastName": "Çaltekin",
   "country": "Turkey",
-  "age": 24
+  "age": 25
 }
 
 ```
@@ -14,10 +14,12 @@
 ## Active Stack 🔥
 
 - **Front End:** Next.js Pages & App Router, React.js, Typescript, Redux Toolkit, Tailwind CSS, Gatsby.js
-- **Back End:** Node.js, Express
-- **Database:** MySQL
+- **Back End:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **CMS:** Keystone.js
+- **API:** RESTful, GraphQL
 - **Other Tools:** Git&Github, Trello, Jira, Asana, Figma
-- **Following:** Remix, Shopify, GraphQL, Prisma, MongoDB
+- **Following:** Remix, Shopify, Prisma
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dcaltekin&theme=dark)](https://git.io/streak-stats)
 
